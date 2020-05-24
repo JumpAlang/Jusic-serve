@@ -20,6 +20,7 @@ public interface ConfigService {
 
     Boolean getEnableSwitch();
 
+    Float getVoteRate();
 
     Boolean getGoodModel();
     void setGoodModel(boolean goodModel);

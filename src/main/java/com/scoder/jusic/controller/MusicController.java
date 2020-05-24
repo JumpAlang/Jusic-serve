@@ -186,13 +186,15 @@ public class MusicController {
             vote = musicService.vote(sessionId);
             voteCount = musicService.getVoteCount();
             if (vote == 0) {
-                sessionService.send(sessionId,MessageType.NOTICE, Response.failure((Object) null, "你已经投过票了"));
+                sessionService.send(sessionId,MessageType.NOTICE, Response.failure((Object) null, "你已经投过票了,当前状态："+voteCount + "/" + size));
                 log.info("你已经投过票了");
+            }else{
+                sessionService.send(MessageType.NOTICE, Response.success((Object) null, voteCount + "/" + size + " 投票成功"));
             }
-            sessionService.send(MessageType.NOTICE, Response.success((Object) null, voteCount + "/" + size + " 投票成功"));
         }
         log.info("投票成功");
-        if (voteCount == 1 && vote != 0 && voteCount < size * jusicProperties.getVoteRate()) {
+        Float voteRate = configService.getVoteRate();
+        if (voteCount == 1 && vote != 0 && voteCount < size * voteRate) {
             sessionService.send(MessageType.NOTICE, Response.success((Object) null, "有人希望切歌, 如果支持请发送“投票切歌”"));
             log.info("有人希望切歌, 如果支持请发送“投票切歌”");
         }

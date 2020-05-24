@@ -37,6 +37,11 @@ public class ConfigServiceImpl implements ConfigService {
     }
 
     @Override
+    public Float getVoteRate() {
+        return configRepository.getVoteRate();
+    }
+
+    @Override
     public Boolean getEnableSwitch() {
         return configRepository.getEnableSwitch();
     }

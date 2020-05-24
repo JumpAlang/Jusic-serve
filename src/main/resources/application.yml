@@ -31,7 +31,7 @@ spring:
               class: com.fintech.modules.base.util.mail.MailSSLSocketFactor
 jusic:
   music-expire-time: 1200000
-  rtry-count: 1
+  retry-count: 1
   vote-rate: 0.3
   default-music-file: 'classpath:music/default-list.txt'#'file:/usr/local/nginx/html/default-list.txt' # #
   wy-top-url: 'https://music.163.com/discover/toplist?id=3778678'
