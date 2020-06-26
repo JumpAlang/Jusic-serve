@@ -92,7 +92,7 @@
 
 ## 在线预览
 
-Jusic：[Jusic 点歌台](http://www.alang.run/syncmusic)
+Jusic：[Jusic 点歌台](http://music.alang.run)
 
 ## todo
 1. 网易云音乐接口api改成用nodejs版https://github.com/jsososo/NeteaseMusic
