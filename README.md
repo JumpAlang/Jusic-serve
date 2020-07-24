@@ -59,7 +59,7 @@
 
 7. 前端
 
-   请前往 [Jusic-ui](https://github.com/hanhuoer/Jusic-ui) 项目
+   请前往 [Jusic-ui](https://github.com/JumpAlang/Jusic-ui)项目
 
 
 
