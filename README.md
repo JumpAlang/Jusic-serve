@@ -1,7 +1,7 @@
 
 
-如果遇到问题可以在本项目提 issue
-
+多房间版已开源：
+[Jusic-serve-houses](https://github.com/JumpAlang/Jusic-Serve-Houses)
 
 ## 项目背景
 
@@ -106,7 +106,11 @@ Jusic：[Jusic 点歌台](http://music.alang.run)
 * 网易云音乐api:[NeteaseMusic](https://github.com/jsososo/NeteaseMusic)
 * qq音乐api:[qqMusicApi](https://github.com/jsososo/QQMusicApi)
 * 咪咕音乐api:[miguMusicApi](https://github.com/jsososo/MiguMusicApi)
-## 更新日志
+
+## 打赏请我喝奶茶
+[打赏](http://www.alang.run/sponsor)
+
+
 
 
 
