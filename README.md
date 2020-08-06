@@ -1,4 +1,4 @@
-
+> 目前服务器配置比较弱鸡，经常炸机，欢迎大佬赞助。mail to me .
 
 多房间版已开源：
 [Jusic-serve-houses](https://github.com/JumpAlang/Jusic-Serve-Houses)
