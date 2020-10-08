@@ -1,3 +1,8 @@
+***此房间版本后续不再维护，请移驾至多房间版[Jusic-serve-houses](https://github.com/JumpAlang/Jusic-Serve-Houses)***
+
+> 鼓励大家自建一起听歌吧服务，多房间版本有提供docker镜像可一键部署
+> 一起听歌吧官方所使用服务器配置：[阿里云ecs_t5_突发型](https://www.aliyun.com/minisite/goods?userCode=ze4tzlf9&share_source=copy_link)
+
 > 目前服务器配置比较弱鸡，经常炸机，欢迎大佬赞助。mail to me .
 
 > 也欢迎小伙伴提交自己搭建的地址到issue,如果可以，创办个一起听歌吧联盟，把所有一起听歌吧的地址聚合在一起。分解服务器压力。
