@@ -2,7 +2,9 @@
 
 > 鼓励大家自建一起听歌吧服务，多房间版本有提供docker镜像可一键部署
 
-> 一起听歌吧官方所使用服务器配置,新用户有优惠价100左右：[阿里云ecs_t5_突发型](https://www.aliyun.com/minisite/goods?userCode=ze4tzlf9&share_source=copy_link)
+> 一起听歌吧官方所使用服务器配置,趁双11新用户1年只要84元（建议买3年）：[阿里云ecs_t5_突发型](https://www.aliyun.com/minisite/goods?userCode=ze4tzlf9&share_source=copy_link)
+> 趁双11腾讯云新用户1年只要88元（建设买3年）：[腾讯云标准型S4](https://cloud.tencent.com/act/cps/redirect?redirect=10140&cps_key=52c40793a9f078023fbc4d27eee65032&from=activity)
+
 
 > 目前服务器配置比较弱鸡，经常炸机，欢迎大佬赞助。mail to me .
 
