@@ -1,5 +1,8 @@
 ***此房间版本后续不再维护，请移驾至多房间版[Jusic-serve-houses](https://github.com/JumpAlang/Jusic-Serve-Houses)***
 
+> 热烈庆祝一起听歌吧微信小程序上架成功，搜索：灵魂自习室
+
+
 > 鼓励大家自建一起听歌吧服务，多房间版本有提供docker镜像可一键部署
 
 > 一起听歌吧官方所使用服务器配置,趁双11新用户1年只要84元（建议买3年）：[阿里云ecs_t5_突发型](https://www.aliyun.com/minisite/goods?userCode=ze4tzlf9&share_source=copy_link)
